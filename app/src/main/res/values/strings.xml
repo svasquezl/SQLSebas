@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLSebas</string>
+    <string name="nombre">nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="direccion">Direccion</string>
+    <string name="edad">Edad</string>
+
+
+    <string name="guardar">Guardar</string>
+
+</resources>
